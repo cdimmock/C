@@ -1,0 +1,6 @@
+Pseudo Code for Mario Pyramid
+
+1. Prompt for user to input height
+2. If height is < 1 or > 10 go back to Step 1
+3. Iterate from 1 through inputed height
+    3a. Print hashes
